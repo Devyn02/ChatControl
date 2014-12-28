@@ -1,4 +1,4 @@
-name: ChatControl
+name: OmgaChat
 main: kangarko.chatcontrol.ChatControl
 version: 5.0.0-DEV
 description: Complete chat management suite for Bukkit.
